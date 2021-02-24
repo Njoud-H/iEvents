@@ -1,0 +1,51 @@
+#classicformpage .view {
+  background-image: url('https://executiveevents.in/Userfiles/Poster/45551b5fa56b451485d3a7cbd2b13cf8.jpg');
+  background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   min-height: 90vh;
+ }
+ 
+ #classicformpage .gradient {
+   background: -webkit-linear-gradient(
+     45deg,
+     rgba(0, 0, 0, 0.7),
+     rgba(72, 15, 144, 0.4) 100%
+   );
+   background: -webkit-gradient(
+     linear,
+     45deg,
+     from(rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%)
+   );
+   background: linear-gradient(
+     45deg,
+     rgba(0, 0, 0, 0.7),
+     rgba(72, 15, 144, 0.4) 100%
+   );
+ }
+ 
+ #classicformpage .card {
+   background-color: rgba(126, 123, 215, 0.2);
+ }
+ 
+ #classicformpage h6 {
+   line-height: 1.7;
+ }
+ 
+ #classicformpage .navbar {
+   transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+ }
+ 
+ /* #classicformpage .top-nav-collapse {
+   background: #9c27b0    !important;
+ }
+ @media (max-width: 100px) {
+   #classicformpage .navbar:not(.top-nav-collapse) {
+     background: #9c27b0    !important;
+   }
+   } */
+ 
+ 
+ #classicformpage label {
+   color: #fff !important;
+ }

@@ -1,0 +1,32 @@
+{
+  "name": "Project4-iEvents",
+  "version": "1.0.0",
+  "description": "iEvents is a website that provides a part-time job in the Crowd Management field, where the event owner is able to add his event and give a chance to organizers to become a part of it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/Angels/Project4-iEvents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.9.2",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.11.15",
+    "mongoose-regex-search": "^0.8.30",
+    "nodemon": "^2.0.7"
+  }
+}
