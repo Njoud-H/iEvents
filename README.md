@@ -1,5 +1,6 @@
 # iEvents
 iEvents is a website that provides a part-time job related to the Crowd Management field, where the event owner is able to add his event and give a chance to organizers to become a part of it.
+
 This website has been created in partial fulfillment of the requirements for the Capstone Project of **Software Engineering Immersive Course**, that provided by **_General Assembly_**.
 
 
@@ -14,12 +15,17 @@ This website has been created in partial fulfillment of the requirements for the
 ### User Story:
 iEvents website has two types of users, with specific actions for each:
 * **The Event Owner**: Create an account + Edit the profile + Add, edit and delete an event + View all applied organizers with accepting/rejecting their requests to join and notifying the organizers with that via SMS message.
-* **The Organizer**: Create an account + Edit the profile + View all events (Based on Region) + Send a join request to the owner with choosing the shift time + View the events that already applied on it and having the ability to Cancel that request or changing the shift time.
+* **The Organizer**: Create an account + Edit the profile + View all events (Based on location) + Send a join request to the owner with choosing the shift time + View the events that already applied on it and having the ability to Cancel that request or changing the shift time.
 
 ### Technical Used :
 iEvents is a FullStack Web Application, where the Technical used are:
 * The Frontend: ReactJS.
 * The Backend: Express + MongoDB.
+* Others: EmailJS 3rd Party API 
+
+### Website Live-Demo :
+https://ievents-sei13.herokuapp.com
+
 
 ### Members :
 @Njoudhaddad   
